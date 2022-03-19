@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://YH-LEE21.github.io"><img width="80%" src="./assets/NameLogo.png" /></a></p>
+<p align="center"><img width="80%" src="./assets/NameLogo.png" /></a></p>
 
 <div align="center"> 
   
