@@ -1,5 +1,11 @@
+
 <p align="center"><a href="https://YH-LEE21.github.io"><img width="80%" src="./assets/NameLogo.png" /></a></p>
 
+<div align="center"> 
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYH-LEE21%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 <br />
 
 I'm a self-taught passionate developer from South of Korea 🇮🇳
