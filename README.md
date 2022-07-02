@@ -28,7 +28,6 @@ I'm a self-taught passionate developer from South of Korea 🇮🇳
 |![YH-LEE21's GitHub stats](https://github-readme-stats.vercel.app/api?username=YH-LEE21&show_icons=true&theme=radical) |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YH-LEE21&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### SNS
 ### <h1>📬SNS</h1>
 <a href="https://www.instagram.com/yohan.0226/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yohan.0226/"/></a>
 <a href="mailto:ksmwy9029@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ksmwy9029@naver.com"/></a>
